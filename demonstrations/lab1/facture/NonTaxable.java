@@ -2,9 +2,9 @@ package demonstrations.lab1.facture;
 
 public class NonTaxable {
     private String nom;
-    private double prix;
+    private float prix;
 
-    public NonTaxable(String nom, double prix) {
+    public NonTaxable(String nom, float prix) {
         this.nom = nom;
         this.prix = prix;
     }

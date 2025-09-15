@@ -2,10 +2,10 @@ package demonstrations.lab1.facture;
 
 public class TaxeSimple {
     private String nom;
-    private double prix;
+    private float prix;
     private static double TAXE = 1.05;
 
-    public TaxeSimple(String nom, double prix) {
+    public TaxeSimple(String nom, float prix) {
         this.nom = nom;
         this.prix = prix;
     }
