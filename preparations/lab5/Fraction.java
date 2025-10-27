@@ -1,7 +1,7 @@
 package preparations.lab5;
 
 public class Fraction implements Nombre<Fraction> {
-    private int x,y;
+    public int x,y;
 
     public Fraction(int x, int y) {
         this.x = x;

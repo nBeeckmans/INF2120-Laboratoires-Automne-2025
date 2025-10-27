@@ -14,6 +14,7 @@ public class Principale {
         Nombre<N> resultat = tableau.getFirst();
 
         for (int i = 1; i < tableau.size(); ++i) {
+            N element = tableau.get(i);
             resultat = resultat.add(element);
 
         }
