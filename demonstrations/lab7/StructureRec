@@ -1,0 +1,6 @@
+package demonstration.lab7;
+
+public class StructureRec {
+       StructureRec enfant;
+       int valeur;
+}
