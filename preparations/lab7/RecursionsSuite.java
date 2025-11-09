@@ -67,6 +67,7 @@ public class RecursionsSuite {
         return estPair(i - 1);
     }
 
+    // Ne marche pas lmaooo cuz la fusion est pas une fusion en vrai xdd
     public static void triFusion(int i, int j, int[] tab) {
         if (i == j) {
             return;
