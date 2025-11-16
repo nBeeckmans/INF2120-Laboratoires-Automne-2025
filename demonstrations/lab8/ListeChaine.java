@@ -1,3 +1,7 @@
+/**
+ * Par Frédérique Desrosiers
+ */
+
 public class ListeChaine<T> {
     Chainon<T> premier;
     int taille;

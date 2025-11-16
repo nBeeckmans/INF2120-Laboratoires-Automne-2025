@@ -1,3 +1,7 @@
+/**
+ * Par Frédérique Desrosiers
+ */
+
 import java.util.ArrayDeque;
 import java.util.Deque;
 

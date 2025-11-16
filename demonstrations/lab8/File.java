@@ -1,3 +1,7 @@
+/**
+ * Par Frédérique Desrosiers
+ */
+
 public class File<T> {
     /**
      * Il y a 2 types de classes imbriquées
